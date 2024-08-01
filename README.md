@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dener 👋
+### Olá! Eu sou o Dener
 
 ![Dener Negri GitHub stats](https://github-readme-stats.vercel.app/api?username=DenerMilGrau&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenerMilGrau&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
