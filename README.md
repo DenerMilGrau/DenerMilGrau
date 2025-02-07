@@ -9,4 +9,6 @@
 
 <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="HTML 5" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="center" alt="CSS 3" height="80px" src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png">
+
 </div>
