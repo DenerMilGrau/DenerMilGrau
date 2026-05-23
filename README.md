@@ -1,3 +1,4 @@
+"""
 ### Olá! Eu sou o Dener
 
 ![Dener Negri GitHub stats](https://github-readme-stats.vercel.app/api?username=DenerMilGrau&show_icons=true&theme=tokyonight)
@@ -12,3 +13,4 @@
 <img align="center" alt="JS" height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
 
 </div>
+"""
